@@ -37,3 +37,7 @@ D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\TrialApp\WinFormsApp1
 D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\TrialApp\WinFormsApp1\obj\Release\net5.0-windows\ref\WinFormsApp1.dll
 D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\TrialApp\WinFormsApp1\obj\Release\net5.0-windows\WinFormsApp1.pdb
 D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\TrialApp\WinFormsApp1\obj\Release\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\TrialApp\WinFormsApp1\bin\Release\net5.0-windows\WinFormsApp1.dll.manifest
+D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\TrialApp\WinFormsApp1\bin\Release\net5.0-windows\WinFormsApp1.application
+D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\TrialApp\WinFormsApp1\obj\Release\net5.0-windows\WinFormsApp1.dll.manifest
+D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\TrialApp\WinFormsApp1\obj\Release\net5.0-windows\WinFormsApp1.application

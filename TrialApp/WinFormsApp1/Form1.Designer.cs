@@ -67,7 +67,7 @@ namespace WinFormsApp1
             // 
             this.textBox2.Location = new System.Drawing.Point(324, 131);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 23);
+            this.textBox2.Size = new System.Drawing.Size(18, 23);
             this.textBox2.TabIndex = 3;
             // 
             // textBox3
@@ -76,6 +76,7 @@ namespace WinFormsApp1
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 23);
             this.textBox3.TabIndex = 4;
+            this.textBox3.Text = "4444";
             // 
             // Form1
             // 
