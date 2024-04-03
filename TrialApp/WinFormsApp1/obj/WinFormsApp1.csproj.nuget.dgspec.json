@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\WinFormsAutoUpdate\\TrialApp\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "D:\\WinformsUsingClickOnce\\WinFormsAutoUpdateUsingClickOnce\\TrialApp\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "F:\\WinFormsAutoUpdate\\TrialApp\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "D:\\WinformsUsingClickOnce\\WinFormsAutoUpdateUsingClickOnce\\TrialApp\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\WinFormsAutoUpdate\\TrialApp\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "D:\\WinformsUsingClickOnce\\WinFormsAutoUpdateUsingClickOnce\\TrialApp\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "F:\\WinFormsAutoUpdate\\TrialApp\\WinFormsApp1\\WinFormsApp1.csproj",
-        "packagesPath": "C:\\Users\\vib28\\.nuget\\packages\\",
-        "outputPath": "F:\\WinFormsAutoUpdate\\TrialApp\\WinFormsApp1\\obj\\",
+        "projectPath": "D:\\WinformsUsingClickOnce\\WinFormsAutoUpdateUsingClickOnce\\TrialApp\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\PTS-PC-94_USR02\\.nuget\\packages\\",
+        "outputPath": "D:\\WinformsUsingClickOnce\\WinFormsAutoUpdateUsingClickOnce\\TrialApp\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vib28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PTS-PC-94_USR02\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
