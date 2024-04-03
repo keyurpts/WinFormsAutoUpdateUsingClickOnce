@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="WinFormsApp1.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="WinFormsApp1.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="14336">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="15352">
       <assemblyIdentity name="Launcher" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JthcNoC3KQdgekuLVzGYgRkfmt0D9VKcH7DVq0dVEDo=</dsig:DigestValue>
+        <dsig:DigestValue>DuPL2VPsgTW7Q7NMSRuSDsR36Sg70PgUQwaRPfDI/dc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,31 +62,31 @@
       <dsig:DigestValue>ip39LX1y9qm0Isx/zob36qzqo2pJPCJrsvxM9nAGpjY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WinFormsApp1.dll" size="6656">
+  <file name="WinFormsApp1.dll" size="8184">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>8nEM/RukTSAJ6LkvsbMEtqhymQrik9uAg/nsnHtnbeo=</dsig:DigestValue>
+      <dsig:DigestValue>xHIUPDCIHyDw9hfjCiZ6Rv/z1/0nA9Or8WorT4OU/9s=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WinFormsApp1.exe" size="125952">
+  <file name="WinFormsApp1.exe" size="126456">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>G+JzU0V00mexKz+gv1ImtkcuB1syHagnr/RThEXTKB4=</dsig:DigestValue>
+      <dsig:DigestValue>8w1fOKLN4S8ir/kFWadO9679Zi2uolDqH1JlxpQ68wU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WinFormsApp1.runtimeconfig.json" size="260">
+  <file name="WinFormsApp1.runtimeconfig.json" size="154">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>TAy4UQmrQZe65gulPZpwP3mxUVQNvVse7HGqvBQf5Mo=</dsig:DigestValue>
+      <dsig:DigestValue>NiDVPch7SqLL1QtcqAuqPjoBfZ04y3L2kORCla/DP3c=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

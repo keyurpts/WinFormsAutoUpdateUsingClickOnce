@@ -1,0 +1,5 @@
+D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\published\WinFormsApp1.exe
+D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\published\WinFormsApp1.dll
+D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\published\WinFormsApp1.deps.json
+D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\published\WinFormsApp1.runtimeconfig.json
+D:\WinformsUsingClickOnce\WinFormsAutoUpdateUsingClickOnce\published\WinFormsApp1.pdb
