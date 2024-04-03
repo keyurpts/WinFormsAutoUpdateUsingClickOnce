@@ -76,7 +76,8 @@ namespace WinFormsApp1
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 23);
             this.textBox3.TabIndex = 4;
-            this.textBox3.Text = "4444";
+            this.textBox3.Text = "55555";
+            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // Form1
             // 
